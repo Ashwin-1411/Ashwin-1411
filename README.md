@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,70:2d1b69,100:0d0d0d&height=220&section=header&text=K%20ASHWIN&fontSize=72&fontColor=e8d5ff&animation=fadeIn&fontAlignY=55&desc=security%20researcher%20%C2%B7%20CTF%20player%20%C2%B7%20vuln%20hunter&descSize=14&descAlignY=75&descColor=9d7fe3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,70:2d1b69,100:0d0d0d&height=220&section=header&text=K%20ASHWIN&fontSize=72&fontColor=e8d5ff&animation=fadeIn&fontAlignY=55&desc=Security%20Researcher%20%C2%B7%20CTF%20player%20%40Team%20Hunter%20%C2%B7%20%40B1tw1nk%20%C2%B7%20Vuln%20Hunter&descSize=14&descAlignY=75&descColor=9d7fe3" width="100%"/>
 
 <div align="center">
 
@@ -65,6 +65,18 @@ print(op.status())
 
 ---
 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=1&pause=100000&color=9D7FE3&center=false&vCenter=true&repeat=false&width=220&height=28&lines=%5B+WHAT+DRIVES+ME+%5D" alt="what drives me"/>
+
+<div align="center">
+
+I break into systems, find what's broken, and build things that don't go down under pressure.<br/>
+CTFs on weekends, hackathons when the calendar allows — walked away with wins more than once.<br/>
+Security is the one field that never gets boring, and I'm only getting started.
+
+</div>
+
+---
+
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=1&pause=100000&color=9D7FE3&center=false&vCenter=true&repeat=false&width=160&height=28&lines=%5B+LOADOUT+%5D" alt="loadout"/>
 
 <div align="center">
@@ -106,13 +118,19 @@ print(op.status())
 
 <div align="center">
 
-<a href="https://github.com/Ashwin-1411">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ashwin-1411&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9d7fe3&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a><a href="https://github.com/Ashwin-1411">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-1411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d7fe3&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
 <img src="https://streak-stats.demolab.com?user=Ashwin-1411&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=9D7FE3&fire=BF91F3&currStreakLabel=9D7FE3&sideLabels=38BDAE&dates=444444&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="55%"/>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake.svg">
+    <img alt="github-snake"
+      src="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake.svg">
+  </picture>
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-1411&theme=tokyo-night&bg_color=0d1117&color=9d7fe3&line=9d7fe3&point=bf91f3&area_color=1a0533&area=true&hide_border=true" width="100%"/>
 
@@ -161,37 +179,13 @@ print(op.status())
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=1&pause=100000&color=9D7FE3&center=false&vCenter=true&repeat=false&width=220&height=28&lines=%5B+WHAT+DRIVES+ME+%5D" alt="what drives me"/>
 
 <div align="center">
-
-I'm drawn to the space where systems break down — not to watch them fail, but to understand exactly why.<br/>
-Most of my time goes into security research, building tools that think, and playing CTFs that keep me honest.<br/>
-I care about writing code that's hard to exploit and infrastructure that doesn't apologize for existing.<br/>
-Outside of that — figuring out how LLMs can do real defensive work, not just demos.
-
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70%" alt="hacker aesthetic"/>
 </div>
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake.svg">
-    <img alt="github-snake"
-      src="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-1411&bg_color=171717&color=DEDEDE&line=9D7FE3&point=9D7FE3&area_color=9D7FE3&area=true" alt="Activity Graph">
-</div>
-
----
 
 <div align="center">
 
@@ -199,10 +193,11 @@ Outside of that — figuring out how LLMs can do real defensive work, not just d
 
 <br/><br/>
 
-![](https://img.shields.io/badge/ships_code-at_2am-0d1117?style=flat-square&labelColor=1a0533&color=9d7fe3)
+
+![](https://img.shields.io/badge/sudo-rm_--rf_bugs-0d1117?style=flat-square&labelColor=1a0533&color=9d7fe3)
 ![](https://img.shields.io/badge/trust_no-network-0d1117?style=flat-square&labelColor=1a0533&color=bf91f3)
-![](https://img.shields.io/badge/works_on-my_machine-0d1117?style=flat-square&labelColor=1a0533&color=38bdae)
-![](https://img.shields.io/badge/coffee-black_no_sugar-0d1117?style=flat-square&labelColor=1a0533&color=FF6633)
+![](https://img.shields.io/badge/dark_mode-always-0d1117?style=flat-square&labelColor=1a0533&color=38bdae)
+![](https://img.shields.io/badge/coffee_consumed-∞_times-0d1117?style=flat-square&labelColor=1a0533&color=FF6633)
 
 </div>
 

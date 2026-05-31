@@ -175,7 +175,20 @@ Outside of that — figuring out how LLMs can do real defensive work, not just d
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70%" alt="hacker aesthetic"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake.svg">
+    <img alt="github-snake"
+      src="https://raw.githubusercontent.com/Ashwin-1411/Ashwin-1411/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-1411&bg_color=171717&color=DEDEDE&line=9D7FE3&point=9D7FE3&area_color=9D7FE3&area=true" alt="Activity Graph">
 </div>
 
 ---

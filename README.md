@@ -15,12 +15,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="70%" alt="hacker aesthetic"/>
-</div>
-
----
-
 <table width="100%">
 <tr>
 <td valign="top" width="54%">
@@ -179,9 +173,8 @@ Security is the one field that never gets boring, and I'm only getting started.
 
 ---
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70%" alt="hacker aesthetic"/>
+  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="70%" alt="hacker aesthetic"/>
 </div>
 
 ---
